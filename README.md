@@ -11,7 +11,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Bonhava Property - Real estate</h2>
+  <h2 align="center">Bonhava Properties</h2>
 
   Bonhava Property is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
